@@ -1,4 +1,4 @@
-# HAHA-NO-UR
+# Rin Bot
 
 A discord bot that somewhat accurately depicts scouting in LLSIF
 
@@ -23,4 +23,5 @@ This bot would not have been possible without the following projects:
 
 - School Idol Tomodachi API https://github.com/SchoolIdolTomodachi/SchoolIdolAPI/wiki/LoveLive!-School-Idol-API  
 - discord.py https://github.com/Rapptz/discord.py  
-- Python Pillow https://python-pillow.org/  
+- Python Pillow https://python-pillow.org/ 
+- DamourYouKnow https://github.com/DamourYouKnow/HAHA-NO-UR
